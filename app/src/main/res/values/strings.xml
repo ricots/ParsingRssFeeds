@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rss Feeds</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="news_filter_title">Select News Source</string>
+    <string name="load">Load More</string>
+</resources>

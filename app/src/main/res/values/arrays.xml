@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="news_filter">
+        <item>CNN News</item>
+        <item>Google News</item>
+    </string-array>
+</resources>
